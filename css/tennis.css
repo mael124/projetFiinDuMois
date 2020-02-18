@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.carousel-inner
+{
+    box-sizing: border-box;
+}
+.items {
+   border: none;
+   margin-top: 30px;
+}
+
+.items img 
+{
+    border-radius: 10px;
+    height: 200px;
+    width: 300px;
+    transform: scale(1);
+}
+
+.items:hover img
+{
+    transform: scale(1.1);
+    transition: 0.2s;
+   
+}
+.items a
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.items a :hover, img:hover
+{
+    color: orangered;
+}
+
+.monImg
+{
+    opacity: 0.3;
+}
+
+h1
+{
+    color: black;
+    font-weight: bold;
+}
+
+
+.menu ul li 
+{
+    margin-right: 50px;
+}
+
+
+footer
+{
+    background-color: black;
+    font-size: large;
+    color: white;
+}
+
+footer a
+{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+

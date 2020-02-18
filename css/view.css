@@ -1,0 +1,49 @@
+.container
+{
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+img
+{
+    height: 400px;
+}
+
+
+.card 
+{
+    border: none;
+    text-align: center;
+}
+
+h5
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    border: 1px solid white;
+    background: orangered;
+    border-radius: 5px;
+    color: white;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+
+
+footer
+{
+    background-color: black;
+    font-size: large;
+    color: white;
+}
+
+footer a
+{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
